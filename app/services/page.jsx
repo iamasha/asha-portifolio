@@ -7,25 +7,25 @@ const services = [
   {
     num: '01',
     title: 'Web Development',
-    description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
+    description: 'Build web based applications both frontend and backend using various tech stacks.',
     href: ""
   },
   {
     num: '02',
     title: 'UI/UX Design',
-    description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
+    description: 'Deal in creating intuitive, user-friendly, and visually appealing digital interfaces for websites, apps, or other software products.',
     href: ""
   },
   {
     num: '03',
     title: 'Logo Design',
-    description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
+    description: 'We create a unique, memorable visual symbol that represents a brand, company, or product',
     href: ""
   },
   {
     num: '04',
     title: 'SEO',
-    description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
+    description: 'We optimize websites to improve its visibility and ranking on search engine results pages (SERPs), such as Google.',
     href: ""
   },
 ]

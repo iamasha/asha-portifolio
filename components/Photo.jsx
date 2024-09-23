@@ -17,7 +17,7 @@ const Photo = () => {
             }}
             className="w-[298px] h-[298px] xl:w-[498px] xl:h-[498px] mix-blend-lighten absolute">
                 <Image 
-                src="/assets/images/KAB_2065.jpg" 
+                src="/assets/images/Asha_port.jpeg" 
                 priority qualtiy={100} 
                 fill  
                 alt="" 

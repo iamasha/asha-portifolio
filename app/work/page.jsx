@@ -15,7 +15,7 @@ const projects = [
     num: '01',
     category: 'frontend',
     title: 'project 1',
-    description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
+    description: 'A core banking system that digitizes savings and credit cooperative organisations.',
     stack:
       [{ name: 'Html5' }, { name: 'Css 3' }, { name: "Javascript" }],
     image: '/assets/images/frontend1.png',
@@ -26,20 +26,9 @@ const projects = [
     num: '02',
     category: 'fullstack',
     title: 'project 2',
-    description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
+    description: 'An ecoomerce website to allow restaurants track their transactions from ordering to delivery.',
     stack:
       [{ name: 'Next.js' }, { name: 'Tailwind.css' }, { name: "Node.js" }],
-    image: '/assets/images/frontend2.png',
-    live: '',
-    github: '',
-  },
-  {
-    num: '03',
-    category: 'frontend',
-    title: 'project 3',
-    description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
-    stack:
-      [{ name: 'Next.js' }, { name: 'Tailwind.css' }],
     image: '/assets/images/frontend2.png',
     live: '',
     github: '',
